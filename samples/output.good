@@ -1,0 +1,17 @@
+### zix-1.0_one-file.zix
+one-file.txt
+### zix-1.0_subdir.zix
+top.txt
+subdir/
+subdir/sub.txt
+### zix-1.0_two-files.zix
+file-b.txt
+file-a.txt
+### zix-2.0_one-file.zix
+one-file.txt
+### zix-2.0_subdir.zix
+subdir/sub.txt
+top.txt
+### zix-2.0_two-files.zix
+file-a.txt
+file-b.txt

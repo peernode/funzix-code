@@ -1,0 +1,15 @@
+	F-ZIX: burn all ZIX archives
+
+The ZIX archive format is a bogus format designed to perpetuate a scam (to
+install their garbage adware software).  On the off chance you got screwed by
+this format, rather than installing their scumware, unpack the archive with
+this utility.  Then delete the ZIX archive.
+
+Also keep in mind that often times, the "files" you downloaded in a ZIX archive
+are not real. The WinZix guys are crap flooding sites with bogus files that are
+named as things you may want, but the content is actually random garbage data.
+If the utilties here unpack the archives and the resulting files are crap, then
+it's most likely they were crap to begin with.
+
+For more information, please visit:
+	http://funzix.sourceforge.net/
